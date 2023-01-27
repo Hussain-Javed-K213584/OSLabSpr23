@@ -1,0 +1,9 @@
+.
+├── labtask03.txt
+├── logs.log
+├── q1.log
+├── README.md
+├── Task_1.png
+└── Task_2.png
+
+0 directories, 6 files

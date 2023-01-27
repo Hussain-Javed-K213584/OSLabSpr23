@@ -1,0 +1,16 @@
+Script started on 2023-01-27 11:13:06+05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="168" LINES="45"]
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ cat t[K[K[K[K[Kecho tree[K[K[K[Ktree > [K[K[K[K[K[K[K[K[K[K[K[Ktouch la[K[K[K labtask03.txt
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ t[Kecho tree > [K[K[K[K[K[K[K[K[K[K[K[Ktree > labtask03.txt
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ cat labtak[Ksk03.txt
+.
+├── labtask03.txt
+├── logs.log
+├── q1.log
+├── README.md
+├── Task_1.png
+└── Task_2.png
+
+0 directories, 6 files
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ exit
+
+Script done on 2023-01-27 11:16:09+05:00 [COMMAND_EXIT_CODE="0"]
