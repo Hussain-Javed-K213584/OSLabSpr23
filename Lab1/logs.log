@@ -1,0 +1,52 @@
+Script started on 2023-01-27 11:10:13+05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="168" LINES="45"]
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ script q1.log
+Script started, file is q1.log
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ cat t[K[K[K[K[Kecho tree[K[K[K[Ktree > [K[K[K[K[K[K[K[K[K[K[K[Ktouch la[K[K[K labtask03.txt
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ t[Kecho tree > [K[K[K[K[K[K[K[K[K[K[K[Ktree > labtask03.txt
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ cat labtak[Ksk03.txt
+.
+├── labtask03.txt
+├── logs.log
+├── q1.log
+├── README.md
+├── Task_1.png
+└── Task_2.png
+
+0 directories, 6 files
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ exit
+Script done, file is q1.log
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ script q4.log
+Script started, file is q4.log
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ sudo useradd hussain1
+[sudo] password for student: 
+Sorry, try again.
+[sudo] password for student: 
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ sudo useradd hussain [K2
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ su hussain1
+Password: 
+su: Authentication failure
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ su hussain1
+Password: 
+su: Authentication failure
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ su hussain
+su: user hussain does not exist
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ student[K[K[K[K[K[K[Ksu hussain1
+Password: 
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ sudo passwd hussain1
+New password: 
+Retype new password: 
+passwd: password updated successfully
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ sudo passwd hussain2
+New password: 
+Retype new password: 
+passwd: password updated successfully
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ su hussain1
+Password: 
+$ exit
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ exit
+exit
+Script done, file is q4.log
+]0;student@student-OptiPlex-7090: ~/Desktop/OSLabSpr23/Lab1[01;32mstudent@student-OptiPlex-7090[00m:[01;34m~/Desktop/OSLabSpr23/Lab1[00m$ exit
+exit
+
+Script done on 2023-01-27 11:30:57+05:00 [COMMAND_EXIT_CODE="0"]
