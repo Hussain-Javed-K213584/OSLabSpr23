@@ -22,4 +22,8 @@ New log script created. 2 new users also created. Following is the image attache
 **Task 5:**
 Password changed of second user. I used the 'su' command to switch to the second user and used the 'passwd' command
 to change the password of the second user. Attached below is the screenshot of the process:
-![Password changed](Task_5.png) 
+![Password changed](Task_5.png)
+
+**Task 6:**
+Following is a screenshot of the file created with 10 vocabulary words in it and sorted using the 'sort' command.
+![Task 6](Task_6.png)
