@@ -27,3 +27,9 @@ to change the password of the second user. Attached below is the screenshot of t
 **Task 6:**
 Following is a screenshot of the file created with 10 vocabulary words in it and sorted using the 'sort' command.
 ![Task 6](Task_6.png)
+
+**Home Task:**
+Following is a screenshot of virtual box with ubuntu LTS 22.04 installed. (VMware was unsupported on my hardware).
+![Oracle VM](home_task.PNG)
+Attached below is a screenshot of WSL Ubuntu installed on the Windows 10 operating system:
+![WSL Ubuntu](home_task_wsl.PNG)
