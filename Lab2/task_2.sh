@@ -9,9 +9,11 @@ for((i = 0; i < 5; i++)); do
 	mkdir "02"
 	cd "01" && touch test.txt
 	date > test.txt
-	cd "../"
+	cd ".."
 	cd "02" && touch test.txt
 	date > test.txt
-	cd "../"
+	cd ".."
+	cd ".."
+	pwd
 done
 	
