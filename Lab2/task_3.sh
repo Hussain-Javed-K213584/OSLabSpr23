@@ -1,5 +1,5 @@
 echo "Going into folders files"
-touch "../main.txt"
+touch "main.txt"
 for((i=0; i<5; i++)); do
 	cd "folder$i"
 	echo "In folder$i"
